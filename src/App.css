@@ -34,14 +34,18 @@
 }
 
 @media screen and (max-width: 750px) {
-  .toggle-container,
-  .header {
+  .nav-header {
     display: block;
   }
 
-  .header h1 {
+  .toggle-container {
+    display: block;
+  }
+
+  .nav-header h1 {
     margin-top: 0px;
     text-align: center;
+    padding-top: 10px;
   }
 
   .search-bar input {
