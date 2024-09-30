@@ -1,0 +1,14 @@
+.toggle-container {
+  max-width: 95vw;
+  margin: 0px auto;
+  display: flex;
+  justify-content: space-between;
+}
+
+.search-res {
+  color: gray;
+}
+
+.search-res span {
+  color: black;
+}
